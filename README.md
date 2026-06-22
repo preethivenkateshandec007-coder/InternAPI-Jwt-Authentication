@@ -135,4 +135,4 @@ The author is not responsible for any misuse of this project.
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/InternAPIJwtAuthentication.git
+   git clone https://github.com/preethivenkateshandec007-coder/InternAPIJwtAuthentication.git
