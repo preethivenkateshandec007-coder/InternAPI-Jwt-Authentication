@@ -136,3 +136,7 @@ The author is not responsible for any misuse of this project.
 1. Clone the repository:
    ```bash
    git clone https://github.com/preethivenkateshandec007-coder/InternAPIJwtAuthentication.git
+
+## Author
+**Preethi venkateshan**- prrethivenkateshandec007@gmail.com
+   
